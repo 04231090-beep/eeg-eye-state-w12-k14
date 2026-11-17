@@ -1,0 +1,1 @@
+Masukkan file notebook (.ipynb) progres Minggu 12 Anda ke dalam folder ini.
